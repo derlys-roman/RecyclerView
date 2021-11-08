@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RecycleView</string>
+    <string name="image_of_hero">Image of hero</string>
+</resources>
