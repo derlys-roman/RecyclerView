@@ -1,3 +1,3 @@
-#RecyclerView App
-##App of training the RecyclerView component
+# RecyclerView App
+## App of training the RecyclerView component
 
